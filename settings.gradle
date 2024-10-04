@@ -1,0 +1,5 @@
+/* adbox-applovin */ include ':aob_applovin' /* adbox-applovin */
+/* adbox-vungle */ include ':aob_vungle' /* adbox-vungle */
+/* admob */ include ':aob_admob' /* admob */
+include ':aob_admon_shared'
+include ':app', ':aob_sessionreporting'

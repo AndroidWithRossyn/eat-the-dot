@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data-extraction-rules>
+    <cloud-backup >
+        <include domain="sharedpref" path="buildbox_bbclassic_user_progress"/>
+        <include domain="sharedpref" path="Cocos2dxPrefsFile"/>
+    </cloud-backup>
+    <device-transfer>
+        <include domain="sharedpref" path="buildbox_bbclassic_user_progress"/>
+        <include domain="sharedpref" path="Cocos2dxPrefsFile"/>
+    </device-transfer>
+</data-extraction-rules>

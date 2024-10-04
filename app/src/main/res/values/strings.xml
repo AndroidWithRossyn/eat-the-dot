@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eat the Dot</string>
+    
+    
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_reward_video_id">ca-app-pub-3940256099942544/5224354917</string>
+
+    <string name="more_games_url">https://play.google.com/store/apps/dev?id=8578431973928868866</string>
+    <string name="share_message">OMG been playing #monkeybang for hours!, I scored </string>
+    <string name="privacy_policy_url">https://appdave.com/privacy-policy</string>
+    <string name="support_email_address">support@appdave.com</string>
+
+    <!-- CAUTION: DON'T CHANGE ANY VALUES BELOW  -->
+    <string name="app_id"></string>
+    <string name="bb_version">2.23.9</string>
+    <string name="no_to_all"><u>NO TO ALl</u></string>
+    <string name="consent_dialog_explanation_text">Do you consent to share your personal information with advertisers? We personalize your advertising experience using ad networks, and we track some basic in-game events for developer analytics. By giving your consent to this improved ad experience, you\'ll see more advertisements relevant to your interests.</string>
+    <string name="yes_to_all">YES TO ALL</string>
+    <string name="consent_to_targeted_advertising">CONSENT TO TARGETED ADVERTISING?</string>
+    <string name="view_privacy_policy">Show more details</string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+
+</resources>
+

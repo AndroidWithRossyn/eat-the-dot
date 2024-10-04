@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="sharedpref" path="buildbox_bbclassic_user_progress"/>
+    <include domain="sharedpref" path="Cocos2dxPrefsFile"/>
+</full-backup-content>
